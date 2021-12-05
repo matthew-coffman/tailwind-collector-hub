@@ -1,0 +1,20 @@
+{
+  "name": "tailwind-mobile",
+  "version": "0.4.6",
+  "description": "Mobile UI components made with Tailwind CSS",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tailwind-mobile/tailwind-mobile.git"
+  },
+  "keywords": [],
+  "author": "Vladimir Kharlampidi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tailwind-mobile/tailwind-mobile/issues"
+  },
+  "homepage": "https://tailwind-mobile.com",
+  "engines": {
+    "node": ">= 4.7.0"
+  },
+  "releaseDate": "September 13, 2021"
+}
